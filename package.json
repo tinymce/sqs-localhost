@@ -22,8 +22,8 @@
     "queue"
   ],
   "author": "Blake E <electblake@gmail.com>",
-  "dependencies": {},
   "devDependencies": {
+    "@types/node": "^18.15.6",
     "@types/jest": "^24.0.13",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2"
